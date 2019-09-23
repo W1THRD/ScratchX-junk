@@ -1,3 +1,3 @@
-# ScartchX Junk!
+# ScratchX Junk!
 Some weird stuff...
 ## Scratch3D stuff
