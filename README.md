@@ -14,15 +14,5 @@ How to load one:
 
 ### Crazy Cat
 URL: https://retropieman.github.io/ScratchX-junk/Crazy-Cat.sbx
+
 How to use: just watch
-
-
-
-
-
-
-
-
-
-
-.
