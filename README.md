@@ -15,9 +15,15 @@ How to load one:
 ### Crazy Cat
 URL: https://retropieman.github.io/ScratchX-junk/Crazy-Cat.sbx
 
-How to use: just watch
+How to use: just watch.
 
 ### Panic
 URL: https://retropieman.github.io/ScratchX-junk/Panic.sbx
 
 How to use: arrow keys to move.
+
+### Random
+URL: https://retropieman.github.io/ScratchX-junk/random.sbx
+
+How to use: arrow keys to move.
+
